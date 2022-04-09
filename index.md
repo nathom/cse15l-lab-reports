@@ -2,7 +2,7 @@
 
 [Google](https://google.com)
 
-![Image](https://static.wikia.nocookie.net/supermarioglitchy4/images/f/f3/Big_chungus.png/revision/latest?cb=20200511041102)
+![Chungus](index_resources/gcmhgfwtvmcblzzpbrqgtgsthjqfriif.jpg)
 
 Some things I like:
 
