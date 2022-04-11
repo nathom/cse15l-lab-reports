@@ -50,7 +50,7 @@ will use an ssh key to remember your device
 - First, type `ssh-keygen` and follow the instructions shown on the
 command line
 
-- Then save the file that ends in `.pub` to `~/.shh/authorized_keys` on
+- Then save the file that ends in `.pub` to `~/.ssh/authorized_keys` on
 the server, and the other files to `~/.ssh` on your local computer
 
 ## Optimizing Remote Running
