@@ -61,3 +61,8 @@ the server, and the other files to `~/.ssh` on your local computer
 running more convenient
 
 - Use the up/down arrow to cycle through the past commands
+
+- You can run multiple commands in the same line by separating them with a 
+semicolon
+
+- For example, you can compile and run java code with `javac Example.java; java Example`
