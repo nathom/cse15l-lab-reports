@@ -1,5 +1,17 @@
 # Nathan's Stuff 
 
+## Lab Reports
+
+[Week 2 Lab Report](Week-2-Lab-Report.md)
+
+[Week 4 Lab Report](Week-4-Lab-Report.md)
+
+[Lab Report 1](lab-report-1-week-2.md)
+
+[Lab Report 1](https://nathom.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+
+## Other
+
 [Google](https://google.com)
 
 ![Chungus](index_resources/gcmhgfwtvmcblzzpbrqgtgsthjqfriif.jpg)
@@ -34,15 +46,6 @@ int main() {
     return 0;
 }
 ```
-
-
-[Lab Report 1](lab-report-1-week-2.md)
-
-[Lab Report 1](https://nathom.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
-
-[Week 2 Lab Report](Week-2-Lab-Report.md)
-
-[Week 4 Lab Report](Week-4-Lab-Report.md)
 
 **CSE 15L Spring 2022 Announcement**
 
