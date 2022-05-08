@@ -6,9 +6,7 @@
 
 [Week 4 Lab Report](Week-4-Lab-Report.md)
 
-[Lab Report 1](lab-report-1-week-2.md)
-
-[Lab Report 1](https://nathom.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
+[Week 6 Lab Report](Week-6-Lab-Report.md)
 
 ## Other
 
