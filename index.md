@@ -8,6 +8,8 @@
 
 [Week 6 Lab Report](Week-6-Lab-Report.md)
 
+[Week 8 Lab Report](Week-8-Lab-Report.md)
+
 ## Other
 
 [Google](https://google.com)
