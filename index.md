@@ -10,6 +10,8 @@
 
 [Week 8 Lab Report](Week-8-Lab-Report.md)
 
+[Week 10 Lab Report](Week-10-Lab-Report.md)
+
 ## Other
 
 [Google](https://google.com)
@@ -52,3 +54,4 @@ int main() {
 We will be using [Autograder](https://autograder.ucsd.edu/queue/615) as the student queue during TA/tutor office hours.
 
 Have a *nice* week!
+
