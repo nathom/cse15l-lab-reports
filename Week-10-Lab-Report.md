@@ -1,6 +1,6 @@
- # Week 10 Lab Report
+# Week 10 Lab Report
 
-- I found the tests with different results manually
+I found the tests with different results manually.
 
 ## Test 1
 
